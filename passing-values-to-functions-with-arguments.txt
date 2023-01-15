@@ -1,0 +1,6 @@
+let a,b;
+function functionWithArgs(a,b)
+{
+console.log(a+b);
+}
+functionWithArgs(5,5)
